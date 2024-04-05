@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/chirp/static/js/main.7a47aba9.js",
+    "index.html": "/chirp/index.html",
+    "main.7a47aba9.js.map": "/chirp/static/js/main.7a47aba9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7a47aba9.js"
+  ]
+}
